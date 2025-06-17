@@ -1,4 +1,5 @@
 Key Analyses to Be Completed
+
 🔹 1. Technology Decision Matrix
 What:
 Simulated evaluation of 3–4 industrial 3D printers using key criteria
